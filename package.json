@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@shopify/shopify-api": "^3.0.1",
+    "https": "^1.0.0",
+    "image-downloader": "^4.2.0",
+    "ncp": "^2.0.0",
+    "node-fetch": "2.0",
+    "request": "^2.88.2",
+    "url": "^0.11.0",
+    "url-exist": "^3.0.1",
+    "url-exist-sync": "^2.0.0",
+    "url-exists": "^1.0.3",
+    "xlsx": "^0.18.5"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "file-exists": "^5.0.1",
+    "got": "^12.5.1",
+    "xlsx-style": "^0.8.13"
+  }
+}
